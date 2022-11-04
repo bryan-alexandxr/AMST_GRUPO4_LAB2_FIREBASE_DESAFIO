@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ASMT_Grupo4_Lab2_Cloud_Firebase</string>
+
+    <string name="facebook_app_id">1283110155784587</string>
+    <string name="fb_login_protocol_scheme">fb1283110155784587</string>
+    <string name="facebook_client_token">732e15d3eaa7e612f764567814137639</string>
+    <string name="Api_keyTW">LRkLfIHyojB3u4TLxmE86bzqL</string>
+    <string name="Api_Secret_keyTW">DRsVbYdzWuOkXRHP3oT0yOYPAzq9xInLErpM8onyvrm3vLmgJH</string>
+
+</resources>
