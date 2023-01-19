@@ -70,10 +70,17 @@ public class PerfilUsuario extends AppCompatActivity {
 
         }
     }
+
     public void serra(View view) {
         FirebaseAuth.getInstance().signOut();
         finish();
         Intent i = new Intent(this, MainActivity.class);
         startActivity(i);
+    }
+
+    public void irRegistros(View view) {
+        Intent intent = new Intent(this, registros.class);
+        startActivity(intent);
+
     }
 }

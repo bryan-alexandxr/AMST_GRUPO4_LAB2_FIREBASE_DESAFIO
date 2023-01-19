@@ -15,6 +15,9 @@
         android:theme="@style/Theme.ASMT_Grupo4_Lab2_Cloud_Firebase"
         tools:targetApi="31">
         <activity
+            android:name=".registros"
+            android:exported="false" />
+        <activity
             android:name=".Twitter"
             android:exported="false">
             <meta-data
